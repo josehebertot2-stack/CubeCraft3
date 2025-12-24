@@ -1,0 +1,5 @@
+{
+  "name": "CubeCraft Pro Interface",
+  "description": "A high-fidelity React application mimicking a voxel-based game's UI/UX, featuring a comprehensive HUD, inventory management, world manager, settings, and multiplayer lobby with advanced Tailwind styling and glassmorphism.",
+  "requestFramePermissions": []
+}
